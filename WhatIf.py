@@ -14,6 +14,8 @@ calc_function(first_number, second_number)
 
 
 
+
+
 #Вы задумывались, а что если?..
  
 #Необходимо познакомиться с прекрасным IF!
