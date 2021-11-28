@@ -12,9 +12,7 @@ second_number = int(input('Write second number: '))
 
 calc_function(first_number, second_number)
 
-
-
-
+1
 
 #Вы задумывались, а что если?..
  
